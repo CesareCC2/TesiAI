@@ -13,7 +13,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "txt_belli/video_1_right.txt"
+                        "data": "scene1_right.txt"
                     }
                 }
             ]
@@ -28,7 +28,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "txt_belli/video_1_left.txt"
+                        "data": "scene1_left.txt"
                     }
                 }
             ]
