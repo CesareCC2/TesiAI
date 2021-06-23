@@ -12,8 +12,8 @@
         {
             "id": "right_hand",
             "position": [
-                100,
-                0,
+                474.119,
+                562.13,
                 0
             ],
             "representations": [
@@ -26,8 +26,8 @@
         {
             "id": "left_hand",
             "position": [
-                100,
-                0,
+                674.847,
+                563.477,
                 0
             ],
             "representations": [
