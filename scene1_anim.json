@@ -1,0 +1,37 @@
+{
+    "context": {
+        "assetTrail": false
+    },
+    "nodes": [
+        {
+            "id": "right_hand",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "0"
+                    },
+                    "event": {
+                        "type": "animation",
+                        "data": "txt_belli/video_1_right.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "left_hand",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "0"
+                    },
+                    "event": {
+                        "type": "animation",
+                        "data": "txt_belli/video_1_left.txt"
+                    }
+                }
+            ]
+        }
+    ]
+}

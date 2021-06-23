@@ -1,0 +1,41 @@
+{
+    "context": {
+        "UnitOfMeasureScale": 0.001,
+        "Zup": false,
+        "RepoPath": ""
+    },
+    "scene": [
+        "right_hand",
+        "left_hand"
+    ],
+    "assets": [
+        {
+            "id": "right_hand",
+            "position": [
+                100,
+                0,
+                0
+            ],
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "unit": 1
+                }
+            ]
+        },
+        {
+            "id": "left_hand",
+            "position": [
+                100,
+                0,
+                0
+            ],
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "unit": 1
+                }
+            ]
+        }
+    ]
+}
