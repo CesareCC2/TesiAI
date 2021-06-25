@@ -18,7 +18,7 @@
             ],
             "representations": [
                 {
-                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2.0/Box/glTF-Binary/Box.glb",
                     "unit": 1
                 }
             ]
@@ -32,7 +32,7 @@
             ],
             "representations": [
                 {
-                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2.0/Box/glTF-Binary/Box.glb",
                     "unit": 1
                 }
             ]
@@ -60,7 +60,7 @@
         "position": [
             550,
             560,
-            -500
+            -1000
         ],
         "rotation": [
             0,
