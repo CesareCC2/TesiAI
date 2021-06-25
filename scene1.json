@@ -37,5 +37,21 @@
                 }
             ]
         }
-    ]
+    ],
+    "cameras": [
+    {
+        "id": "camera.1",
+        "type": "FlyCamera",
+        "position": [
+            550,
+            560,
+            50
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "speed": 8
+    }
 }
