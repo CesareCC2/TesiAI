@@ -18,7 +18,7 @@
             ],
             "representations": [
                 {
-                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2.0/Box/glTF-Binary/Box.glb",
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
                     "unit": 1
                 }
             ]
@@ -39,23 +39,9 @@
         }
     ],
     "cameras": [
-    {
-        "id": "camera.1",
-        "type": "FlyCamera",
-        "position": [
-            550,
-            560,
-            -500
-        ],
-        "rotation": [
-            0,
-            45,
-            0
-        ],
-        "speed": 8
-    },
+    
         {
-        "id": "camera.2",
+        "id": "camera.1",
         "type": "FlyCamera",
         "position": [
             550,
