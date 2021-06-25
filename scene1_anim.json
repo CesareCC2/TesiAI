@@ -13,7 +13,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "scene1_right.txt"
+                        "data": "https://raw.githubusercontent.com/CesareCC2/TesiAI/main/scene1_right.txt"
                     }
                 }
             ]
@@ -28,7 +28,7 @@
                     },
                     "event": {
                         "type": "animation",
-                        "data": "scene1_left.txt"
+                        "data": "https://raw.githubusercontent.com/CesareCC2/TesiAI/main/scene1_left.txt"
                     }
                 }
             ]
