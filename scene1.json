@@ -53,7 +53,7 @@
             0
         ],
         "speed": 8
-    }
+    },
         {
         "id": "camera.2",
         "type": "FlyCamera",
